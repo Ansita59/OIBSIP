@@ -29,4 +29,4 @@ Design and develop a responsive landing page for a gaming platform that showcase
 
 ## 👩‍💻 Author
 **Ansita Jena**  
-[LinkedIn]() *(Insert link if you make a post)*  
+[LinkedIn](https://www.linkedin.com/posts/ansita-jena-959884349_webdevelopment-html-css-activity-7353821053103611905-CLhw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFcpGFUB9XqEB1_zs44uu8UUTfJ57IKfVvg)   
